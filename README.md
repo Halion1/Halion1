@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Halion1/Halion1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Bioinformatician working at the intersection of:
+- Transcriptomics & genomics
+- Machine learning for using big datasets like patients metadata
+- Mathematical and metabolic modeling
 
-Here are some ideas to get you started:
+## 🧬 Research Interests
+- Antimicrobial resistance
+- Peptide and protein engineering
+- Systems biology and FBA/dFBA
+- Multi-omics integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Python, R, Bash
+- Bioinformatics: Nextflow, DESeq2, edgeR, Kleborate
+- ML: scikit-learn, XGBoost
+- HPC: SLURM, Linux, SSH
+
+## Contact me!
+www.linkedin.com/in/jeremy-guerrero-57b415176
+www.instagram.com/jere_rodrigo_gue?igsh=Y3RmN2NyeXVhc3d3
