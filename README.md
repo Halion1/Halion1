@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Bioinformatics banner" width="100%">
+</p>
+
 ## Hi there 👋
 
 I am a Bioinformatician working at the intersection of:
