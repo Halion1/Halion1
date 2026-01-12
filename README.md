@@ -7,7 +7,7 @@
 I am a Bioinformatician working at the intersection of:
 - Transcriptomics & genomics
 - Machine learning for using big datasets like patients metadata
-- Mathematical and metabolic modeling
+- Biological math modeling
 
 ## 🧬 Research Interests
 - Antimicrobial resistance
