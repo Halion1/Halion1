@@ -16,7 +16,3 @@ I am a Bioinformatician working at the intersection of:
 - Bioinformatics: Nextflow, DESeq2, edgeR, Kleborate
 - ML: scikit-learn, XGBoost
 - HPC: SLURM, Linux, SSH
-
-## Contact me!
-www.linkedin.com/in/jeremy-guerrero-57b415176
-www.instagram.com/jere_rodrigo_gue?igsh=Y3RmN2NyeXVhc3d3
