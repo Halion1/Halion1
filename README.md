@@ -23,5 +23,5 @@ I am a Bioinformatician working at the intersection of:
 
 ## Links
 
-https://www.kaggle.com/jeremyguerreroalejos /
+https://www.kaggle.com/jeremyguerreroalejos <br>
 https://huggingface.co/halion1
