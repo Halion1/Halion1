@@ -20,3 +20,8 @@ I am a Bioinformatician working at the intersection of:
 - Bioinformatics: Nextflow, DESeq2, edgeR, Kleborate
 - ML: scikit-learn, XGBoost
 - HPC: SLURM, Linux, SSH
+
+## Links
+
+https://www.kaggle.com/jeremyguerreroalejos
+https://huggingface.co/halion1
